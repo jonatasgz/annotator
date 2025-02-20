@@ -1,17 +1,17 @@
 # Annotator
 
-## 🚀 Overview
+## Overview
 
 Annotator is a simple Vue 3 application that allows users to input text, select words to highlight, and apply custom highlight colors.
 
-## ✨ Features
+## Features
 
 - ✅ **Live Text Highlighting** - Words in the input text are dynamically highlighted.
 - 🎨 **Custom Highlight Colors** - Users can select colors for each word.
 - 🔄 **Persistence with LocalStorage** - Highlighted words remain after page refresh.
 - 📋 **Sortable Highlight List** - Words are sorted by color for easy identification.
 
-## 🛠️ Installation
+## Installation
 
 ### 1️⃣ Clone the Repository
 
